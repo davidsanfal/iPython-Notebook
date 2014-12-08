@@ -1,0 +1,4 @@
+Hola a todos,
+soy un texto de prueba
+para aprender como Python 3
+manipula ficheros.
